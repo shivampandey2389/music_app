@@ -854,4 +854,7 @@ footer .copyright {
     justify-content: space-evenly;
     width:270px;
   }
+  .search input{
+    font-size:13px;
+  }
 }
