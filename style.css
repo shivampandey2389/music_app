@@ -853,8 +853,12 @@ footer .copyright {
   .search {
     justify-content: space-evenly;
     width:270px;
+    font-size:15px;
   }
   .search input{
     font-size:13px;
+  }
+  .home-icon .music-cart{
+    font-size:15px;
   }
 }
