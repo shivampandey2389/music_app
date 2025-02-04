@@ -850,5 +850,6 @@ footer .copyright {
 
   .search {
     justify-content: space-evenly;
+    width:270px;
   }
 }
