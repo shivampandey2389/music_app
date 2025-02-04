@@ -839,7 +839,9 @@ footer .copyright {
   .company span {
     font-size: 10px;
   }
-
+  aside{
+    width:350px;
+  }
   .company ul li {
     font-size: 8px;
   }
